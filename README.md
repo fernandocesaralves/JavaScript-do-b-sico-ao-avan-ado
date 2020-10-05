@@ -1,4 +1,4 @@
-# JavaScript-do-b-sico-ao-avan-ado
+# JavaScript do básico ao avançado
 
 Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express
 
