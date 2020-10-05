@@ -1,23 +1,22 @@
 # JavaScript do básico ao avançado
 
-Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express
+**Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express**
 
-JavaScript do básico ao avançado
+- JavaScript do básico ao avançado
 
-Lógica de programação com base em JS
+- Lógica de programação com base em JS
 
-Orientação a objetos no JavaScript
+- Orientação a objetos no JavaScript
 
-Estruturas de condição, repetição e funções
+- Estruturas de condição, repetição e funções
 
-Programar web com Node (Express/Sequelize/Handlebars/Body Parser)
+- Programar web com Node (Express/Sequelize/Handlebars/Body Parser)
 
-Programação de eventos e DOM com JS
+- Programação de eventos e DOM com JS
 
-Criar aplicações web completas
+- Criar aplicações web completas
 
-Expressão regular com JavaScript
-
+- Expressão regular com JavaScript
 
 JavaScript é uma das linguagens mais utilizadas atualmente, tanto para o front-end quanto para o back-end, neste curso você vai aprender desde os conceitos mais básicos da linguagem até o que há de mais avançado.
 
@@ -25,34 +24,33 @@ Isso com base em mais de 40 exercícios práticos e 3 projetos (tanto com JavaSc
 
 O curso tem uma didática que mescla teoria com prática, para entender tudo que acontece por de baixo dos panos no JavaScript e ainda exercícios práticos para colocarmos a mão na massa com situações reais de programação que acontecem no dia a dia de um programador.
 
-Alguns dos tópicos do curso são:
+**Alguns dos tópicos do curso são:**
 
-Tipos de dados e operadores lógicos;
+- Tipos de dados e operadores lógicos;
 
-Estruturas de programação;
+- Estruturas de programação;
 
-Funções;
+- Funções;
 
-Arrays e Objetos;
+- Arrays e Objetos;
 
-Orientação a Objetos;
+- Orientação a Objetos;
 
-Tratamento de erros e debug;
+- Tratamento de erros e debug;
 
-Expressões regulares;
+- Expressões regulares;
 
-Programação assíncrona;
+- Programação assíncrona;
 
-JavaScript no navegador;
+- JavaScript no navegador;
 
-Eventos com JavaScript;
+- Eventos com JavaScript;
 
-Node (c/ Express, Sequelize);
+- Node (c/ Express, Sequelize);
 
 E é claro: muitos projetos, que agregarão toda a teoria aprendida na prática de projetos que simulam aplicações reais.
 
 Utilizaremos Node.js com Express no back-end, para criar projetos modernos, com código robustos e completos.
 
 Este é o último curso de JavaScript que você vai precisar, todos os pontos da linguagens serão abordados e ainda o curso terá atualizações constantes para adicionar mais projetos para você praticar, ou seja, você sai deste curso pronto para programar JS da forma que precisar: seja front-end ou back-end.
-
 <img src="javascript.jpg">
