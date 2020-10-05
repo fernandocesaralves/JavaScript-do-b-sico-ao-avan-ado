@@ -54,3 +54,5 @@ E é claro: muitos projetos, que agregarão toda a teoria aprendida na prática 
 Utilizaremos Node.js com Express no back-end, para criar projetos modernos, com código robustos e completos.
 
 Este é o último curso de JavaScript que você vai precisar, todos os pontos da linguagens serão abordados e ainda o curso terá atualizações constantes para adicionar mais projetos para você praticar, ou seja, você sai deste curso pronto para programar JS da forma que precisar: seja front-end ou back-end.
+
+<img src="javascript.jpg">
