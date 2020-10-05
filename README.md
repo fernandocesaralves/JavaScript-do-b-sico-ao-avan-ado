@@ -54,5 +54,5 @@ Utilizaremos Node.js com Express no back-end, para criar projetos modernos, com 
 
 Este é o último curso de JavaScript que você vai precisar, todos os pontos da linguagens serão abordados e ainda o curso terá atualizações constantes para adicionar mais projetos para você praticar, ou seja, você sai deste curso pronto para programar JS da forma que precisar: seja front-end ou back-end.
 <br>
-<a href="https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/">Link do Curso</a>
+<a href="https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/">Link do Curso</a><br>
 <img src="javascript.jpg">
