@@ -1,26 +1,10 @@
-// Sempre que uma tecla é pressionada, são gerados dois eventos: keyup e keydown
+// Podemos ativar eventos com a movimentação do mouse também 
 
-// Podemos realizar ações nestes eventos também 
+// O nome desse evento podemos detectar a posição do ponteiro do mouse na tela 
 
-// Keyup é quando soltamos a tecla 
+window.addEventListener("mousemove", function(e) {
 
-// Keydown é quando apertamos 
-
-window.addEventListener("keydown", function(e) {
-
-    if(e.key == 'q') {
-        console.log("Você apertou a letra Q");
-    } else if(e.key == 'Enter') {
-        console.log("Você apertou a tecla Entrer");
-    }
+    console.log(e.x);
+    console.log(e.y);
 
 });
-
-window.addEventListener("keyup", function(e) {
-
-    if(e.key == "Enter") {
-        console.log("Soltou a tecla Entrer");
-    }
-
-});
-
