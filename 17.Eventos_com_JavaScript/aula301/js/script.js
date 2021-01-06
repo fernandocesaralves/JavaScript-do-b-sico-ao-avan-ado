@@ -1,10 +1,17 @@
-// Podemos ativar eventos com a movimentação do mouse também 
+// Quando focamos em um elemento ou saímos dele, podemos também atrelar um evento a esta ação 
 
-// O nome desse evento podemos detectar a posição do ponteiro do mouse na tela 
+// Focus para quando um elemento recebe foco e blur quando ele perde 
 
-window.addEventListener("mousemove", function(e) {
+let input = document.querySelector('#input1');
 
-    console.log(e.x);
-    console.log(e.y);
+input.addEventListener("focus", function() {
+
+    console.log("Entrou no input");
+
+});
+
+input.addEventListener("blur", function() {
+
+    console.log("Saiu do input");
 
 });
